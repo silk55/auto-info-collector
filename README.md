@@ -1,0 +1,1 @@
+# auto-info-collector
